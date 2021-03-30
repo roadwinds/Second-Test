@@ -1,7 +1,7 @@
 #include "swap.hpp"
 int main(){
 int a,b;
-std::cout << "ÊäÈëÄãÏëÒª½»»»µÄÁ½¸öÊý" << std::endl;
+std::cout << "è¾“å…¥ä½ æƒ³è¦äº¤æ¢çš„ä¸¤ä¸ªæ•°" << std::endl;//ä½¿ç”¨GBKç¼–ç æ–¹å¼
 std::cin >> a >> b;
 swap(a,b);
 std::cout << a << " " << b << std::endl;
